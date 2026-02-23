@@ -33,5 +33,6 @@ El objetivo es comprender el comportamiento de los clientes, identificar patrone
 - histograma_monto_gastado.png
 - regresion_compras_gasto.png
 - informe_EDA.pdf
+- Documento Final: Insights y Recomendaciones
 
 [Ver proyecto en GitHub](https://github.com/cgocingo-max/EDA_ComercioYA.git)
